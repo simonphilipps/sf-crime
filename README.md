@@ -1,5 +1,5 @@
 # sf-crime
-Crime Statistics Project for Udacity Data Streaming project
+Crime Statistics Project for Udacity Data Streaming project based on Kafka and Spark Streaming
 
 # Open Questions:
 
